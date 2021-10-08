@@ -5,5 +5,4 @@ We will be working with the Titanic Data Set.
 This is a very famous data set and will help us buil a simple logisitic regression model.
 
 We'll be trying to predict a classification- survival or deceased.
-We'll use a "semi-cleaned" version of the titanic data set, if you use the data set hosted directly on Kaggle, you may need to do some additional cleaning.
 I have provided the "semi cleaned" dataset, you can use it if you don't want to download it from kaggle and perform some extra data cleaning.
