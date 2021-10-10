@@ -66,3 +66,4 @@ Now, that we understand the dataset in detail. It is time to build a logistic re
 * Decide Evaluation Metric on the basis of business problem
 * Build model using all features & compare with baseline
 * Use Reverse Feature Elimination to find the top features and build model using the top 10 features & compare
+</br>
