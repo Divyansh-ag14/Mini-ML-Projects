@@ -51,10 +51,9 @@ Demographic information about customers
 
 <b>previous_month_balance</b> - Average Balance of previous month
 
-<b>churn</b> - Average balance of customer falls below minimum balance in the next quarter (1/0)
+<b>churn</b> - Average balance of customer falls below minimum balance in the next quarter (1/0)<br/>
 
 
-<br>
 ## Churn Prediction using Logisitic Regression
 
 Now, that we understand the dataset in detail. It is time to build a logistic regression model to predict the churn. 
