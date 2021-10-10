@@ -55,9 +55,10 @@ Demographic information about customers
 <b>churn</b> - Average balance of customer falls below minimum balance in the next quarter (1/0)
 
 
+
 ## Churn Prediction using Logisitic Regression
 
-Now, that we understand the dataset in detail. It is time to build a logistic regression model to predict the churn. I have included the data dictionary again here for reference.
+Now, that we understand the dataset in detail. It is time to build a logistic regression model to predict the churn. 
 
 * Load Data & Packages for model building & preprocessing
 * Preprocessing & Missing value imputation
