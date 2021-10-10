@@ -59,6 +59,8 @@ There are multiple variables in the dataset which can be cleanly divided in 3 ca
 
 Now, that we understand the dataset in detail. It is time to build a logistic regression model to predict the churn. 
 
+Table of content:
+
 * Load Data & Packages for model building & preprocessing
 * Preprocessing & Missing value imputation
 * Select features on the basis of EDA Conclusions & build baseline model
