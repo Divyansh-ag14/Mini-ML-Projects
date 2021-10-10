@@ -35,7 +35,6 @@ Demographic information about customers
 
 <b>previous_month_end_balance</b> - End of Month Balance of previous month
 
-
 <b>average_monthly_balance_prevQ</b> - Average monthly balances (AMB) in Previous Quarter
 
 <b>average_monthly_balance_prevQ2</b> - Average monthly balances (AMB) in previous to previous quarter
