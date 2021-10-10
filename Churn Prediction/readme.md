@@ -2,7 +2,7 @@
 
 There are multiple variables in the dataset which can be cleanly divided in 3 categories:
 
-Demographic information about customers
+### Demographic information about customers
 
 <b>customer_id</b> - Customer id
 
@@ -51,7 +51,8 @@ Demographic information about customers
 
 <b>previous_month_balance</b> - Average Balance of previous month
 
-<b>churn</b> - Average balance of customer falls below minimum balance in the next quarter (1/0)<br/><br/>
+<b>churn</b> - Average balance of customer falls below minimum balance in the next quarter (1/0)
+<br/><br/>
 
 
 # Churn Prediction using Logisitic Regression
