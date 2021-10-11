@@ -11,9 +11,13 @@ Wavelet Transform tool were used to extract features from images.
 ## Attribute Information:
 
 variance of Wavelet Transformed image (continuous)
+
 skewness of Wavelet Transformed image (continuous)
+
 curtosis of Wavelet Transformed image (continuous)
+
 entropy of image (continuous)
+
 class (integer)
 <br/><br/>
 
