@@ -1,4 +1,4 @@
-### Source
+## Source
 
 Creator:
 
@@ -8,7 +8,7 @@ University of Wisconsin Hospitals
 
 Madison, Wisconsin, USA
 
-### Location:
+## Location:
 
 UCI data repository
 
@@ -42,7 +42,7 @@ Malignant==> Cancerous
 
 Benign==> Not Cancerous (Healthy)
 
-### Background
+## Background
 
 All of our bodies are composed of cells. The human body has about 100 trillion cells within it. And usually those cells behave in a certain way. However, occasionally, one of these 100 trillion cells, behave in a different way and keeps dividing and pushes the other cells around it out of the way. That cell stops observing the rules of the tissue within which it is located and begins to move out of its normal position and starts invading into the tissues around it and sometimes entering the bloodstream and becoming is called a metastasis.
 
