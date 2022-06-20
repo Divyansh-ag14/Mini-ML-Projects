@@ -12,3 +12,5 @@
 **6. Time Series Forecasting models**
 
 **7. Machine Learning models**
+
+[problem statement](https://github.com/Divyansh-ag14/Mini-ML-Projects/blob/main/Time_Series_Forecasting/problem_statement.md)
