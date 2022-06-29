@@ -57,7 +57,7 @@
 
 ### Churn Prediction using Logisitic Regression
 
-### Now, that we understand the dataset in detail. It is time to build a logistic regression model to predict the churn. 
+#### Now, that we understand the dataset in detail. It is time to build a logistic regression model to predict the churn. 
 
 ### Table of content:
 
